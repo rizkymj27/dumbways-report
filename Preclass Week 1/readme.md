@@ -31,7 +31,19 @@ Contoh OS untuk komputer desktop: Windows, Linux, MacOS
 
 Contoh OS untuk server: Linux, WIndows Server
 
-**Functions of Operating System** merupakan list fungsi yang harus dimiliki sebuah sistem operasi. Berikut di antaranya: Memory Management, Processor Management, File Management, Device Management, I/O Management, Command Interpretation, Networking, Security, Storage Management, dan Secondary Storage Management.
+**Functions of Operating System** merupakan list fungsi yang harus dimiliki sebuah sistem operasi. 
+
+Berikut di antaranya: 
+1. Memory Management 
+2. Processor Management 
+3. File Management 
+4. Device Management 
+5. I/O Management
+6. Command Interpretation
+7. Networking 
+8. Security
+9. Storage Management
+10. Secondary Storage Management
 
 **Distribusi Linux** adalah sistem operasi yang dibangun dari kernel linux dengan penambahan komponen lain berupa module, aplikasi, service, ataupun package lain agar tercipta sistem operasi dengan tujuan yang spesifik yang telah ditentukan oleh developer.
 
@@ -50,4 +62,47 @@ Distribusi Linux yang cocok untuk server antara lain: Ubuntu, CentOS, Debian, Op
 **Kelebihan menggunakan virtualization** antara lain:
 
 1. Kemudahan backup dan recovery server-server yang dijalankan di dalam sebuah virtual machine, karena akan melakukan backup secara keseluruhan termasuk konfigurasi sistem.
-2. 
+2. Kemudahan deployment karena dapat di clone sebanyak mungkin dengan konfigurasi sistem yang sama.
+3. Dapat memindahkan virtual machine ke server lain jika terjadi kerusakan hardware.
+
+**Tools** yang dapat digunakan untuk teknologi **virtualisasi** antara lain:
+
+1. VMWare
+2. VirtualBox
+3. Microsoft Hyper-V
+4. QEMU
+5. Proxmox
+
+## **Container Concept**
+
+**Container** adalah sebuah paket aplikasi yang dikemas dengan dependensinya sehingga aplikasi dapat berjalan dengan cepat tanpa perlu mengkonfigurasi sebuah environment tertentu pada sistem operasi.
+
+Dengan teknologi container kita dapat menjalankan aplikasi yang sudah berbentuk container tersebut di sistem operasi Windows ataupun Linux.
+
+<img src=https://user-images.githubusercontent.com/95203293/145400054-9cfc1c4d-f26a-4ad1-b8e1-969d76a77a4a.png width="500" height="400">
+
+**Tools** yang dapat digunakan untuk teknologi **container** antara lain:
+
+1. Docker
+2. Podman
+3. Containerd
+4. LXC atau LXD
+
+**Kelebihan menggunakan teknologi container** antara lain:
+
+1. Isolasi lingkungan terdapat pada tingkat aplikasi/service, sehingga deployment akan lebih fleksibel per-service.
+2. Maintenance sistem dapat lebih fokus per service, sehingga ketika ada update pada salah satu service dengan versi yang lebih baru tidak akan mempengaruhi service yang lain.
+3. Dapat dengan mudah di scale aplikasi sehingga lebih stabil ketika ada salah satu aplikasi yang mati.
+
+## **Cloud Computing Concept**
+
+**Cloud Computing** adalah pengiriman berbagai layanan melalui internet, seperti data storage, servers, databases, networking, dan software.
+
+**Kelebihan Cloud Computing** antara lain:
+1. Menghemat biaya
+2. Meningkatkan produktivitas
+3. Kecepatan dan efisiensi
+4. Keamanan data
+
+<img src=https://user-images.githubusercontent.com/95203293/145402049-d96dd209-b181-4fdf-9c68-52584a64368e.png width="500" height="600">
+
