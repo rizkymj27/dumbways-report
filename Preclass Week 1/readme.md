@@ -33,3 +33,21 @@ Contoh OS untuk server: Linux, WIndows Server
 
 **Functions of Operating System** merupakan list fungsi yang harus dimiliki sebuah sistem operasi. Berikut di antaranya: Memory Management, Processor Management, File Management, Device Management, I/O Management, Command Interpretation, Networking, Security, Storage Management, dan Secondary Storage Management.
 
+**Distribusi Linux** adalah sistem operasi yang dibangun dari kernel linux dengan penambahan komponen lain berupa module, aplikasi, service, ataupun package lain agar tercipta sistem operasi dengan tujuan yang spesifik yang telah ditentukan oleh developer.
+
+Distribusi Linux yang cocok untuk server antara lain: Ubuntu, CentOS, Debian, OpenBSD, FreeBSD, Fedora.
+
+64-bit processors lebih direkomendasikan untuk multi-tasking.
+
+## **Virtualization Concept**
+
+**Virtualization** adalah teknologi yang memungkinkan kita untuk membagi sebuah resource menjadi lebih kecil dari perangkat yang memiliki resource besar. Atau dapat menjalankan beberapa sistem operasi secara bersamaan.
+
+**Hypervisor** adalah program untuk membuat dan menjalankan virtual machine.
+
+**Virtual Machine** adalah sistem komputer yang berjalan di atas sistem lain, memiliki akses ke beberapa sumber daya yang ada di bawahnya. Seperti CPU, Memory, dan Storage. Serta dapat mengakses USB, Network Card, dan sebagainya.
+
+**Kelebihan menggunakan virtualization** antara lain:
+
+1. Kemudahan backup dan recovery server-server yang dijalankan di dalam sebuah virtual machine, karena akan melakukan backup secara keseluruhan termasuk konfigurasi sistem.
+2. 
