@@ -19,3 +19,17 @@ CI/CD adalah kepanjangan dari Continuous Integration dan Continuous Deployment, 
 
 **Continuous Deployment** merupakan proses otomatisasi agar aplikasi yang telah siap di deploy ke server dapat diteruskan hingga aplikasi dapat diakses secara publik.
 
+**Kelebihan CI/CD** antara lain: dapat menyebarkan aplikasi sesuai dengan permintaan, dapat mengurangi resiko aplikasi tidak berfungsi ketika produksi, dapat dengan mudah di rollback ke versi sebelumnya jika terjadi error.
+
+Beberapa daftar tools yang dapat digunakan untuk CI/CD antara lain: Jenkins, GitLab CI, Bitbucket Pipeline, GitHub Actions, dan Circle CI.
+
+## **Operating Systems Concept**
+
+**Sistem Operasi** adalah penghubung antara software dan hardware agar dapat digunakan oleh pengguna.
+
+Contoh OS untuk komputer desktop: Windows, Linux, MacOS
+
+Contoh OS untuk server: Linux, WIndows Server
+
+**Functions of Operating System** merupakan list fungsi yang harus dimiliki sebuah sistem operasi. Berikut di antaranya: Memory Management, Processor Management, File Management, Device Management, I/O Management, Command Interpretation, Networking, Security, Storage Management, dan Secondary Storage Management.
+
