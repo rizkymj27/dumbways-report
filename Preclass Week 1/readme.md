@@ -106,3 +106,29 @@ Dengan teknologi container kita dapat menjalankan aplikasi yang sudah berbentuk 
 
 <img src=https://user-images.githubusercontent.com/95203293/145402049-d96dd209-b181-4fdf-9c68-52584a64368e.png width="500" height="600">
 
+Cloud computing terdiri dari dua jenis, yaitu:
+
+1. **Private Cloud** : merupakan layanan yang disediakan kepada sejumlah orang tertentu. Biasanya hanya diterapkan dalam suatu perusahaan, yang memiliki data dalam jumlah besar tetapi bersifat rahasia.
+2. **Public Cloud** : merupakan layanan yang disediakan kepada publik. Biasanya digunakan untuk mempublikasikan data mereka secara publik, baik itu dalam bentuk object seperti foto, video, dokumen, dan sebagainya.
+
+<img src=https://user-images.githubusercontent.com/95203293/145403343-bdd51b42-9d47-4378-ad0c-eb830c89b434.png width="700" height="300">
+
+Karakteristik dari private cloud antara lain:
+1. Dapat di scale secara mandiri, dengan pengetahuan teknis
+2. Management data hanya dapat diakses oleh staf IT tertentu
+3. Tidak perlu membayar biaya layanan jika orang menggunakannya
+
+Contoh dari private cloud:
+1. Server yang dapat diakses melalui VPN
+2. Aplikasi yang hanya dapat diakses melalui jaringan internet lokal
+
+Karakteristik dari public cloud antara lain:
+1. Dapat di scale dengan mudah
+2. Ada biaya layanan yang harus dibayar
+3. Sangat fleksibel, dapat dihapus jika tidak digunakan, dapat di create ulang jika ingin digunakan.
+
+Contoh dari public cloud:
+1. Amazon Web Service
+2. Google Cloud Platform
+3. Microsoft Azure
+
