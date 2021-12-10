@@ -212,4 +212,32 @@ Keunggulannya antara lain: antar komputer dalam jaringan ini dapat berbagi fasil
 
 ## **OSI Concept**
 
-**OSI** adalah 
+**OSI** adalah Open System Interconnection, yaitu model referensi yang diciptakan dari sebuah kerangka yang bersifat konseptual. Namun, saat ini telah berkembang dan menjadi sebuah standarisasi khusus berkaitan dengan koneksi komputer.
+
+Berikut ini merupakan tujuh model OSI Layer:
+1. Application Layer (Lapisan ke 7)
+2. Presentation Layer (Lapisan ke 6)
+3. Season Layer (Lapisan ke 5)
+4. Transport Layer (Lapisan ke 4)
+5. Network Layer (Lapisan ke 3)
+6. Data-Link Layer (Lapisan ke 2)
+7. Physical Layer (Lapisan ke 1)
+
+<img src=https://user-images.githubusercontent.com/95203293/145527726-70048917-3b16-4d63-80f7-7e4cd65e51a8.png width="500" height="400">
+
+
+## **TCP/IP Concept**
+
+**TCP** adalah Transmission Control Protocol, IP adalah Internet Protocol. Keduanya dijadikan satu karena fungsinya saling bekerja sama dalam komunikasi data.
+
+Berikut ini merupakan empat model TCP/IP Layer:
+1. Application Layer (Lapisan ke 4)
+2. Transport Layer (Lapisan ke 3)
+3. Internet Layer (Lapisan ke 2)
+4. Network Interface Layer (Lapisan ke 1)
+
+<img src=https://user-images.githubusercontent.com/95203293/145528643-4c0d31a2-cfdc-45e1-89db-f2648b84feb3.png width="500" height="400">
+
+
+
+
