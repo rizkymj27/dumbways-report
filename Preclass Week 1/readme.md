@@ -136,3 +136,29 @@ Contoh dari public cloud:
 
 **Jaringan komputer** adalah interkoneksi antara 2 komputer atau lebih, yang saling terhubung dengan media transmisi kabel atau tanpa kabel (wireless). Komputer saling terkoneksi apabila komputer tersebut bisa saling bertukar data/informasi, berbagai resource yang dimiliki seperti file, printer, hard disk, dll.
 
+**Jenis-jenis jaringan**:
+1. **PAN (Personal Area Network)** merupakan jaringan komunikasi satu perangkat dengan perangkat lainnya dalam jarak yang sangat dekat. Contohnya komputer yang dihubungkan ke internet.
+2. **LAN (Local Area Network)** merupakan jaringan komputer yang jaringannya hanya mencakup wilayah kecil. Contohnya jaringan komputer kampus, gedung, dan kantor.
+3. **MAN (Metropolitan Area Network)** merupakan jaringan yang mencakup wilayah seperti provinsi atau negara bagian. Dalam hal ini jaringan menghubungkan beberapa buah jaringan kecil ke dalam lingkungan area yang lebih besar. Contohnya jaringan beberapa kantor cabang sebuah bank.
+4. **WAN (Wide Area Network)** merupakan jaringan yang biasanya sudah menggunakan media wireless, sarana satelit ataupun kabel serat optik. Contohnya jaringan ATM internasional yang tersebar di seluruh negara.
+
+## **Network Types**
+
+Jaringan komputer memiliki tipe-tipe sebagai berikut:
+1. **Jaringan client-server**, server adalah komputer yang menyediakan fasilitas bagi komputer-komputer lain di dalam suatu jaringan. Client adalah komputer-komputer yang menerima atau menggunakan fasilitas yang disediakan oleh server. 
+
+Keunggulannya antara lain: kecepatan akses tinggi serta keamanan dan backup data lebih baik.
+
+Kelemahannya antara lain: biaya operasional lebih mahal, diperlukan adanya satu komputer khusus untuk server, dan kelangsungan jaringan sangat bergantung pada server.
+
+<img src=https://user-images.githubusercontent.com/95203293/145517764-6e95d36b-49ab-4730-891d-c340eeac6b3a.png width="500" height="300">
+
+2. **Jaringan peer to peer** merupakan jaringan non-dedicated server, karena server tidak berperan sebagai server murni, melainkan sekaligus dapat berperan sebagai workstation. Jadi, setiap workstation dapat bertindak sebagai server atau client.
+
+Keunggulannya antara lain: antar komputer dalam jaringan ini dapat berbagi fasilitas yang dimiliki, dan kelangsungan kerja jaringan tidak bergantung pada satu server.
+
+<img src=https://user-images.githubusercontent.com/95203293/145518398-1a5d1f65-db18-4841-878f-8a523ce0909b.png width="400" height="300">
+
+## **Network Topology**
+
+**Topology** adalah metode atau cara yang digunakan agar bisa menghubungkan satu komputer dengan komputer lainnya. Struktur atau jaringan yang digunakan yaitu dengan menggunakan kabel atau nirkabel.
