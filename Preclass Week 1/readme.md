@@ -132,3 +132,7 @@ Contoh dari public cloud:
 2. Google Cloud Platform
 3. Microsoft Azure
 
+## **Basic Network**
+
+**Jaringan komputer** adalah interkoneksi antara 2 komputer atau lebih, yang saling terhubung dengan media transmisi kabel atau tanpa kabel (wireless). Komputer saling terkoneksi apabila komputer tersebut bisa saling bertukar data/informasi, berbagai resource yang dimiliki seperti file, printer, hard disk, dll.
+
