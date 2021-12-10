@@ -162,3 +162,32 @@ Keunggulannya antara lain: antar komputer dalam jaringan ini dapat berbagi fasil
 ## **Network Topology**
 
 **Topology** adalah metode atau cara yang digunakan agar bisa menghubungkan satu komputer dengan komputer lainnya. Struktur atau jaringan yang digunakan yaitu dengan menggunakan kabel atau nirkabel.
+
+**Jenis-jenis topologi**:
+1. **Mesh**, topologi ini menerapkan hubungan antar sentral secara penuh. Jumlah saluran harus disediakan untuk membentuk jaringan mesh. Merupakan jaringan peer to peer.
+
+<img src=https://user-images.githubusercontent.com/95203293/145521826-dec1e855-1143-4fd4-91e3-241d4b052a5e.png width="400" height="300">
+
+**Karakter Mesh** antara lain: tidak ada client server semuanya dapat bertidak sebagai client dan server, peer to peer, serta bentuk mesh yang sangat sederhana ialah array dua dimensi tempat masing-masing simpul juga saling terhubung dengan keempat tetangganya.
+
+2. **Bus**, topologi ini dibangun dengan kabel coaxial yang dibentang kemudian beberapa komputer dihubungkan pada kabel tersebut. Kedua ujung jaringan harus diakhiri dengan sebuah terminator.
+
+<img src=https://user-images.githubusercontent.com/95203293/145522280-82d6a6db-aff3-4c88-8e7c-d12594a12074.png width="600" height="250">
+
+**Karakteristik Bus** antara lain: setiap komputer dalam suatu jaringan terhubung melalui kabel tunggal sebagai media transmisi, kabel tunggal tersebut dapat berfungsi sebagai backbone yang menjadi jalur data, serta setiap ujung kabel utama terpasang terminator untuk bisa menghentikan sinyal dan mencegah terjadinya tabrakan sinyal.
+
+3. **Ring**, topologi ini merupakan semua workstation dan server dihubungkan sehingga terbentuk sebuah pola lingkaran. Tiap workstation atau server akan menerima dan melewatkan informasi dari satu komputer ke komputer lain.
+
+<img src=https://user-images.githubusercontent.com/95203293/145522815-cdef0a56-6605-4247-8c21-081b1086ca8b.png width="400" height="280">
+
+**Karakteristik Ring** antara lain: Setiap komputer atau perangkat yang terhubung secara langsung satu dengan lainnya dalam satu jaringan, Dalam proses pengiriman data pada suatu waktu hanya bisa dilakukan oleh satu titik dengan proses pengiriman satu jalur, Setiap paket data atau informasi bisa mengalir melalui kanan atau kiri titik sehingga hal ini dapat menghindari collision, dan Kerusakan pada satu titik bisa mengakibatkan kerusakan pada titik-titik lainnya yang saling terhubung dalam satu jaringan.
+
+4. **Star**, topologi ini masing-masing workstation dihubungkan secara langsung ke server. Sehingga jalur bandwith akan semakin lebar dan meningkatkan kinerja jaringan secara keseluruhan.
+
+<img src=https://user-images.githubusercontent.com/95203293/145523841-dc7d244e-25dd-41bc-89cc-fb8e17ea6aba.png width="400" height="280">
+
+**Karakteristik Star** antara lain: Dari berbagai node dapat berkomunikasi secara langsung pada central node dengan trafik yang mengalir dari node central, Dapat dengan mudah dikembangkan karena dari masing-masing node mempunyai kabel yang saling terhubung, dan Jaringan tidak mudah terganggu yang dapat disebabkan mengalami suatu kerusakan.
+
+5. **Tree**, merupakan gabungan dari beberapa topologi yang ada (star dan bus), yang bisa memadukan kinerja dari beberapa topologi.
+
+<img src=https://user-images.githubusercontent.com/95203293/145524427-7d52ad8e-273d-4d5f-80d6-7be5bfd60386.png width="500" height="280">
