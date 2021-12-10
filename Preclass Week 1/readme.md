@@ -191,3 +191,25 @@ Keunggulannya antara lain: antar komputer dalam jaringan ini dapat berbagi fasil
 5. **Tree**, merupakan gabungan dari beberapa topologi yang ada (star dan bus), yang bisa memadukan kinerja dari beberapa topologi.
 
 <img src=https://user-images.githubusercontent.com/95203293/145524427-7d52ad8e-273d-4d5f-80d6-7be5bfd60386.png width="500" height="280">
+
+**Karakteristik Tree** antara lain: Proses pengiriman data dari klien pengirim ke klien penerima harus melalui hub (pusat kendali), Pusat data dan kendali jaringan dipegang oleh sebuah hub sebagai kabel utama yang menghubungkan beberapa hub, Terdapat kabel utama (backbone) yang berfungsi sebagai penghubung antar jaringan, dan Mempunyai tingkatan dalam jaringan.
+
+## **IP Address**
+
+**IP Address** adalah Internet Protocol Address, yaitu serangkaian angka unik milik perangkat yang terhubung ke jaringan yang lebih luas. IP Address diperlukan agar perangkat dan server dapat bertukar informasi satu sama lain.
+
+**Jenis IP Address**:
+1. **IP Address Publik** adalah alamat IP yang digunakan router untuk berkomunikasi dengan jaringan yang lebih luas. Diberikan oleh penyedia layanan internet (ISP), dimana terdapat informasi sehingga dapat dilacak.
+2. **IP Address Private** adalah alamat IP pribadi yang dimiliki oleh setiap perangkat, entah itu laptop, smart TV atau smartphone yang terhubung ke jaringan lokal.
+
+<img src=https://user-images.githubusercontent.com/95203293/145525679-889f7dec-8c26-4562-bf98-eacb3c248efc.png width="700" height="400">
+
+**IP Address Dinamis** merupakan pemberian IP secara otomatis dalam sebuah jaringan baik itu bersifat IP publik atau IP private. IP ini akan berubah-ubah setiap waktu.
+
+**IP Address Statis** merupakan pemberian IP yang tidak akan berubah, harus dikonfigurasi manual jika ingin menggunakan IP statis.
+
+![Screenshot from 2021-12-08 14-41-30](https://user-images.githubusercontent.com/95203293/145526295-acbf837b-2901-4a18-9748-b5fe3917b93c.png)
+
+## **OSI Concept**
+
+**OSI** adalah 
