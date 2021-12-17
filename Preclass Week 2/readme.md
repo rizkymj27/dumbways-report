@@ -40,3 +40,20 @@ Singkatan dari "SuperUser Do", perintah ini memungkinkan Anda untuk melakukan tu
 3. **ping**
 
 Gunakan perintah ping untuk memeriksa status konektivitas Anda ke server. Misalnya, hanya dengan memasukkan ping google.com, perintah akan memeriksa apakah Anda dapat terhubung ke Google dan juga mengukur waktu respons.
+
+4. **wget**
+
+Baris perintah Linux sangat berguna — Anda bahkan dapat mengunduh file dari internet dengan bantuan perintah wget. Untuk melakukannya, cukup ketik wget diikuti dengan tautan unduhan.
+
+5. **history**
+
+Ketika Anda telah menggunakan Linux untuk jangka waktu tertentu, Anda akan segera menyadari bahwa Anda dapat menjalankan ratusan perintah setiap hari. Dengan demikian, menjalankan perintah history sangat berguna jika Anda ingin meninjau kembali perintah yang telah Anda masukkan sebelumnya.
+
+6. **man**
+
+Bingung tentang fungsi perintah Linux tertentu? Jangan khawatir, Anda dapat dengan mudah mempelajari cara menggunakannya langsung dari shell Linux dengan menggunakan perintah man. Misalnya, memasukkan man tail akan menampilkan instruksi manual dari perintah tail.
+
+7. **echo**
+
+Perintah ini digunakan untuk memindahkan beberapa data ke dalam sebuah file. Misalnya, jika Anda ingin menambahkan teks, "Halo, nama saya John" ke dalam file bernama name.txt, ketikkan echo Halo, nama saya John >> name.txt
+
