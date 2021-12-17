@@ -36,3 +36,7 @@ Untuk mencari direktori gunakan, / -type d -name notes.txt
 2. **sudo**
 
 Singkatan dari "SuperUser Do", perintah ini memungkinkan Anda untuk melakukan tugas-tugas yang memerlukan izin administratif atau root. Namun, tidak disarankan untuk menggunakan perintah ini untuk penggunaan sehari-hari karena mungkin mudah terjadi kesalahan jika Anda melakukan kesalahan.
+
+3. **ping**
+
+Gunakan perintah ping untuk memeriksa status konektivitas Anda ke server. Misalnya, hanya dengan memasukkan ping google.com, perintah akan memeriksa apakah Anda dapat terhubung ke Google dan juga mengukur waktu respons.
