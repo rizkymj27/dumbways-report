@@ -1,0 +1,3 @@
+Update Log:
+1. Merubah tampilan header page website Dumbways dari warna merah menjadi biru
+2. Menambahkan fitur online chat pada website Dumbways
