@@ -20,6 +20,20 @@
 16. Masuk ke Boot Menu lalu Pilih Ubuntu
 17. Selesai
 
+# **Instalasi Ubuntu Server**
+
+## **Langkah-Langkah**
+
+1. Persiapkan VMWare dan File ISO Ubuntu Server
+2. Install VMWare
+3. Create a new virtual machine
+4. Install OS later
+5. Pilih guest OS dan versinya
+6. Cari direktori file ISO Ubuntu Servernya
+7. Ubah pengaturan hardware sesuai dengan kebutuhan
+8. Power on pada Ubuntu server
+9. Install Ubuntu Server
+
 # **BASH Linux Command Lists**
 
 1. **find**
