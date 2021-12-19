@@ -1,4 +1,4 @@
-# **Instalasi Linux**
+# **Instalasi Linux Ubuntu**
 
 ## **Langkah-Langkah**
 
