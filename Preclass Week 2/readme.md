@@ -72,3 +72,40 @@ Disini saya menggambarkan fitur update di website Dumbways.
 7. Push dan pull
 8. Merge
 
+# **Proses pembuatan CI/CD menggunakan Github Actions**
+
+**Github Actions** adalah alat otomasi yang hadir di Github, Alat ini sangat membantu kita untuk membuat berbagai keperluan otomasi seperti unit test, auto deploy.
+Dengan Github Actions kita juga bisa menentukan saat-saat apa saja otomasi akan terpanggil.
+
+## **Langkah-Langkah**
+
+1. Mempersiapkan Github
+
+Persiapkan repository pada github, Selanjutnya, init projek dengan github lalu tambahkan remote repository yang sudah buat di github.
+
+2. Unit Test
+
+Unit Test adalah pengujian atau testing dengan otomasi. Dengan Unit Test kita dengan mudah melakukan pengujian terhadap aplikasi dengan mudah.
+Contohnya di Continuous Integration ini, sebagai contoh saat kita melakukan pull request ke suatu branch, maka dengan CI kita bisa menjalankan testing di github actions secara otomatis.
+
+3. Membuat Workflows Untuk Continuous Integration
+
+Dengan CI, integrasi antar fitur satu dengan lainnya dapat mudah dan cepat dilakukan secara otomatis.
+
+
+Workflows:
+- Membuat nama untuk action
+- Definisikan kapan action kita akan di trigger atau dijalankan
+- Membuat job, artinya action apa aja yang akan dikerjakan nantinya
+
+4. Continuous Deployment
+
+Ini adalah kelanjutan dari CI, setelah semua teringrasi dengan baik, tentunya tujuan akhir adalah melakukan deploy. dengan metode ini kita bisa membuat otomasi. 
+
+
+Sebagai contoh ketika kode teman kerja sudah aman dan melakukan merge ke branch utama, maka kita bisa mentrigger otomasi CD untuk melakukan deploy otomatis ke server. Dengan begitu kita tidak perlu repot-repot manual mengupdate kode kita di server, kita cukup melakukan push ke branch misalnya, lalu CD akan mendeploy seacara otomatis.
+
+5. Uji Coba
+
+Untuk melakukan uji coba, commit semua yang sudah dibuat sebelumnya.
+Lihat workflow CI dan CD apakah sudah berjalan secara benar tanpa error.
