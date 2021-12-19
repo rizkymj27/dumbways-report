@@ -57,3 +57,18 @@ Bingung tentang fungsi perintah Linux tertentu? Jangan khawatir, Anda dapat deng
 
 Perintah ini digunakan untuk memindahkan beberapa data ke dalam sebuah file. Misalnya, jika Anda ingin menambahkan teks, "Halo, nama saya John" ke dalam file bernama name.txt, ketikkan echo Halo, nama saya John >> name.txt
 
+# **Study Case Proses Update dari Branch Development > Staging > Production**
+
+Disini saya menggambarkan fitur update di website Dumbways.
+
+**Langkah-Langkah**
+
+1. Buat folder untuk init git
+2. Tambahkan file yang akan diupdate
+3. Add lalu commit
+4. Remote dan push
+5. Buat branch
+6. Checkout ke staging
+7. Push dan pull
+8. Merge
+
