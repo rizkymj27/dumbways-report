@@ -95,13 +95,44 @@ Disini saya menggambarkan fitur update di website Dumbways.
 **Langkah-Langkah**
 
 1. Buat folder untuk init git
+
+![image](https://user-images.githubusercontent.com/95203293/147377738-dbd3f328-e97e-46aa-85d1-3f7f059b6517.png)
+
+
 2. Tambahkan file yang akan diupdate
+
+![image](https://user-images.githubusercontent.com/95203293/147377750-b3ef56b0-cea5-4f9f-bcba-b85ab272e75f.png)
+
+
 3. Add lalu commit
+
+![image](https://user-images.githubusercontent.com/95203293/147377757-4ec0d38e-3931-493e-9cc8-39b616348370.png)
+
+
 4. Remote dan push
+
+![image](https://user-images.githubusercontent.com/95203293/147377764-c3cf0f1e-761d-47da-a309-94c4693b5d58.png)
+
+
 5. Buat branch
+
+![image](https://user-images.githubusercontent.com/95203293/147377766-a8d30c39-f20f-4e6c-92f2-b5f0601e2824.png)
+
 6. Checkout ke staging
+
+![image](https://user-images.githubusercontent.com/95203293/147377770-0f0694e8-89e7-4d26-9f0a-e1ea4e4891e0.png)
+
+
 7. Push dan pull
+
+![image](https://user-images.githubusercontent.com/95203293/147377773-aba6c7c2-725f-4f63-a226-18f46420d79d.png)
+
+
 8. Merge
+
+![image](https://user-images.githubusercontent.com/95203293/147377776-ec046922-cc16-41e3-ad41-20bfa041d420.png)
+
+
 
 # **Proses pembuatan CI/CD menggunakan Github Actions**
 
