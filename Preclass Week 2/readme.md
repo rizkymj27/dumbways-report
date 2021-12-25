@@ -46,6 +46,8 @@ Untuk menemukan file dalam penggunaan direktori saat ini, find . -name notes.txt
 
 Untuk mencari direktori gunakan, / -type d -name notes.txt
 
+![image](https://user-images.githubusercontent.com/95203293/147377664-dd18deab-0c73-48d4-bea0-22809355410a.png)
+
 
 2. **sudo**
 
@@ -55,21 +57,36 @@ Singkatan dari "SuperUser Do", perintah ini memungkinkan Anda untuk melakukan tu
 
 Gunakan perintah ping untuk memeriksa status konektivitas Anda ke server. Misalnya, hanya dengan memasukkan ping google.com, perintah akan memeriksa apakah Anda dapat terhubung ke Google dan juga mengukur waktu respons.
 
+![image](https://user-images.githubusercontent.com/95203293/147377689-181ef21e-a06b-4baf-adf4-3f92386a50a3.png)
+
+
 4. **wget**
 
 Baris perintah Linux sangat berguna — Anda bahkan dapat mengunduh file dari internet dengan bantuan perintah wget. Untuk melakukannya, cukup ketik wget diikuti dengan tautan unduhan.
+
+![image](https://user-images.githubusercontent.com/95203293/147377702-ac9b9e85-01aa-469b-a041-61882732c221.png)
+
 
 5. **history**
 
 Ketika Anda telah menggunakan Linux untuk jangka waktu tertentu, Anda akan segera menyadari bahwa Anda dapat menjalankan ratusan perintah setiap hari. Dengan demikian, menjalankan perintah history sangat berguna jika Anda ingin meninjau kembali perintah yang telah Anda masukkan sebelumnya.
 
+![image](https://user-images.githubusercontent.com/95203293/147377712-8c5a96b7-d8da-4f7c-a783-23f49857ba1a.png)
+
+
 6. **man**
 
 Bingung tentang fungsi perintah Linux tertentu? Jangan khawatir, Anda dapat dengan mudah mempelajari cara menggunakannya langsung dari shell Linux dengan menggunakan perintah man. Misalnya, memasukkan man tail akan menampilkan instruksi manual dari perintah tail.
 
+![image](https://user-images.githubusercontent.com/95203293/147377718-f5fea68f-1eda-45d0-bbd2-8ba83a37f3de.png)
+
+
 7. **echo**
 
 Perintah ini digunakan untuk memindahkan beberapa data ke dalam sebuah file. Misalnya, jika Anda ingin menambahkan teks, "Halo, nama saya John" ke dalam file bernama name.txt, ketikkan echo Halo, nama saya John >> name.txt
+
+![image](https://user-images.githubusercontent.com/95203293/147377724-3e895824-7b6e-451e-8161-ab3323536dc5.png)
+
 
 # **Study Case Proses Update dari Branch Development > Staging > Production**
 
