@@ -34,5 +34,19 @@
 
 ![image](https://user-images.githubusercontent.com/95203293/147382102-eeac99af-7e15-40a3-87b4-f6ff0a1662df.png)
 
+- Buat teks untuk diurutkan dengan perintah sort
 
+![image](https://user-images.githubusercontent.com/95203293/147382392-569a927e-08a3-40ea-9fb0-d03a6bf7c054.png)
+
+- Sort untuk mengurutkan teks
+
+![image](https://user-images.githubusercontent.com/95203293/147382400-2d9d0724-410c-4e05-a47c-b97cbd90124c.png)
+
+- Sort descending
+
+![image](https://user-images.githubusercontent.com/95203293/147382421-bec099e3-a198-47b9-9a34-f98bcf8774cc.png)
+
+- Echo untuk mencetak string/pesan
+
+![image](https://user-images.githubusercontent.com/95203293/147382430-5dafb58c-0eea-4c58-9bab-28ff228a818a.png)
 
