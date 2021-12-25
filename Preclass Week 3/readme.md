@@ -90,3 +90,62 @@
 
 # **Another Command for Monitoring With Terminal**
 
+## **top**
+
+Perintah top digunakan untuk menampilkan semua proses real-time yang berjalan dan aktif dalam daftar yang diurutkan dan diperbarui/diupdate secara teratur. 
+
+Ini menampilkan penggunaan CPU, penggunaan Memori, Memori Swap, Ukuran Cache, Ukuran Buffer, PID Proses, Pengguna, Perintah, dan banyak lagi.
+
+![image](https://user-images.githubusercontent.com/95203293/147382639-7873e37f-8274-442a-a7b9-77c75f5e395e.png)
+
+
+## **vmstat**
+
+Perintah Linux VmStat digunakan untuk menampilkan statistik memori virtual, utas kernel, disk, proses sistem, blok I/O, interupsi, aktivitas CPU, dan banyak lagi.
+
+![image](https://user-images.githubusercontent.com/95203293/147382658-2aaf2871-c446-4e28-aaad-2383e2ebcc0d.png)
+
+## **iostat**
+
+iostat adalah alat sederhana yang akan mengumpulkan dan menampilkan statistik perangkat penyimpanan input dan output sistem.
+ 
+Alat ini sering digunakan untuk melacak masalah kinerja perangkat penyimpanan termasuk perangkat, disk lokal, disk jarak jauh seperti NFS.
+
+![image](https://user-images.githubusercontent.com/95203293/147382682-2142ab9b-ffb4-41eb-a792-366a66376c5c.png)
+
+## **collectl**
+
+Collectl adalah utilitas berbasis baris perintah dan kaya fitur lainnya, yang dapat digunakan untuk mengumpulkan informasi tentang sumber daya sistem Linux seperti penggunaan CPU, memori, jaringan, inode, proses, nfs, TCP, soket, dan banyak lagi.
+
+![image](https://user-images.githubusercontent.com/95203293/147382688-a0264f48-9f71-4bed-9c1b-b32fa3071a71.png)
+
+# **CMS Manajer**
+
+## **Content Management System**
+
+Content Management System adalah suatu software yang bertugas dalam mengubah, mengelola, serta mempublikasikan suatu konten website. Content Management System juga akan membantu setiap penggunanya dalam berkolaborasi mengelola konten website.
+
+Sederhananya, Content Management System adalah suatu program yang berguna untuk memudahkan berbagai pekerjaan yang berkaitan dengan website. Kehadiran CMS juga akan membantu para pengguna dalam membuat website tanpa harus mengetahui kemampuan coding ataupun programming yang memusingkan.
+
+## **Contoh Content Management System**
+
+**WordPress**
+WordPress adalah salah satu aplikasi Content Management System yang sifatnya lebih open source. Itu artinya, setiap orang bisa mengakses kode asalnya dan mengembangkan software buatan mereka sendiri dengan berdasarkan kode itu sendiri.
+
+Untuk saat ini, WordPress adalah CMS yang paling banyak digunakan oleh para pengguna di seluruh negara.
+
+## **CMS Manajer**
+
+**CMS Manajer (Cadabra Multiple Server Manajer)**
+
+Merupakan platform yang dibuat untuk memudahkan pengguna yang tidak memiliki pengetahuan server agar dapat memanajemen server-server tersebut dalam satu dashboard dan memudahkan kita untuk menginstal aplikasi yang dibutuhkan dengan sekali klik serta dapat menginstal CMS (Content Management System) seperti WordPress. Selain itu CMS Manajer juga mengoptimalkan konfigurasi kernel, security dan performance pada server.
+
+![image](https://user-images.githubusercontent.com/95203293/147382765-baa1d183-c8a3-400b-9691-f7167a6697bd.png)
+
+CMS Manajer menyediakan fitur marketplace dan app management, yang dapat dimanfaatkan untuk install aplikasi yang kita perlukan.
+
+![image](https://user-images.githubusercontent.com/95203293/147382770-fb43369c-6a06-4e4a-bfb0-34c2d4cf91b3.png)
+
+Terdapat beberapa pilihan aplikasi yang dapat di install, kedepannya akan terus di update jumlah aplikasi yang akan di support pada CMS Manajer. Selanjutnya klik aplikasi yang akan kita install pada server kita, misalkan kita pilih LEMP. Dimana server kita akan otomatis diinstallkan aplikasi Nginx, PHP, MySQL.
+
+
