@@ -50,3 +50,43 @@
 
 ![image](https://user-images.githubusercontent.com/95203293/147382430-5dafb58c-0eea-4c58-9bab-28ff228a818a.png)
 
+- Cat untuk menambahkan teks pada file
+
+![image](https://user-images.githubusercontent.com/95203293/147382456-14c3b811-b226-4527-a942-416ea2ff42da.png)
+
+# **Dokumentasi Proses Setiap Perintah yang Dipelajari di Materi Manage Monitoring Server With Terminal**
+
+## **htop**
+
+![image](https://user-images.githubusercontent.com/95203293/147382480-8a3a5767-bbb2-4e05-ba0f-a4a064df86d6.png)
+
+![image](https://user-images.githubusercontent.com/95203293/147382484-9f26b1c6-3ed1-4d2d-9dcd-45703cc84ced.png)
+
+## **Nmon**
+
+![image](https://user-images.githubusercontent.com/95203293/147382494-2839f0b0-1ecc-491b-b489-05f87489926f.png)
+
+![image](https://user-images.githubusercontent.com/95203293/147382497-ec180b49-bc98-46f0-8324-edf5cf05206a.png)
+
+## **lsof**
+
+![image](https://user-images.githubusercontent.com/95203293/147382510-8b0c2de6-72d2-4f7d-bcdd-27700f7e4fdc.png)
+
+## **ps**
+
+![image](https://user-images.githubusercontent.com/95203293/147382514-1cef54c2-19db-4c52-9080-2bb73bc8116b.png)
+
+![image](https://user-images.githubusercontent.com/95203293/147382519-ba5324c2-38ae-4da4-b324-c3bd63938f5b.png)
+
+## **ufw**
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/95203293/147382534-6782d1bf-24d3-41eb-841c-08b98047a6f0.png">
+
+![image](https://user-images.githubusercontent.com/95203293/147382555-f6687eb4-5fc9-4980-853f-d7a3a29c1002.png)
+
+![image](https://user-images.githubusercontent.com/95203293/147382562-967d677e-9dfe-4f99-92f2-e649529c58ba.png)
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/95203293/147382564-f4afb7d7-c256-4993-aec9-c137e7831d83.png">
+
+# **Another Command for Monitoring With Terminal**
+
